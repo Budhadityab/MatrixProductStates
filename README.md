@@ -11,7 +11,11 @@ The ultimate goal is to learn and apply PEPS and iPEPS-like algorithms.
 Some references are as follows:
 
 https://arxiv.org/pdf/1911.11566
+
 https://arxiv.org/pdf/2109.03120
+
 https://arxiv.org/pdf/1008.3477
+
 https://arxiv.org/pdf/2304.13395
+
 https://tensornetwork.org/
